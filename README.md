@@ -2,8 +2,8 @@
  * @Author: QuestionMark001
  * @Date: 2022-03-01 19:46:21
  * @LastEditors: QuestionMark001
- * @LastEditTime: 2022-03-01 21:43:51
- * @FilePath: \LocalProjects\List_Tool\README.md
+ * @LastEditTime: 2022-06-28 12:37:38
+ * @FilePath: /LocalProjects/List_Tool/README.md
  * @Description: 
  * 
  * Copyright (c) 2022 by QuestionMark001, All Rights Reserved. 
@@ -44,3 +44,7 @@ ___
 ***可能有缺失的名单：***  
 
 ![完整名单](img/可能有缺失的名单.png "2.xlsx")  
+
+## License  
+
+Apache License 2.0  
